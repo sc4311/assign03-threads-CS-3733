@@ -1,0 +1,3 @@
+C:/Users/006li/CLionProjects/assign03-v5-sch-threads-sync-80/cmake-build-debug/CMakeFiles/assign03_v5_sch_threads_sync_80.dir
+C:/Users/006li/CLionProjects/assign03-v5-sch-threads-sync-80/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/006li/CLionProjects/assign03-v5-sch-threads-sync-80/cmake-build-debug/CMakeFiles/rebuild_cache.dir
